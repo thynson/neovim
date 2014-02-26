@@ -14,6 +14,7 @@
 #include <uv.h>
 
 #include "os.h"
+#include "../misc2.h"
 #include "../message.h"
 
 int mch_chdir(char *path) {
